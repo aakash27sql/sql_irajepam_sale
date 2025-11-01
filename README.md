@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis  
+**Project Title**: irajepam  
 **Level**: Beginner  
 **Database**: `life`
 
